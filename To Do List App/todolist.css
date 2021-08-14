@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #36454F;
+}
+#section {
+    margin-top: 100px;
+    margin-left: 500px;
+    padding-top: 10px;
+    padding-left: 150px;
+    max-height: 20vh;
+    width: 40%;
+    border: 2px solid #ccc;
+    border-radius: 30px;
+    background: #ccc;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    margin-bottom: 70px;
+    padding: 9px 9px;
+    width: 70%;
+    font-size: 16px;
+}
+button {
+    /* width: 9%;  */
+    padding: 8px;
+    border-radius: 50px;
+}
+h1 {
+    padding: 40px 200px 45px;
+}
+.button {
+    background: steelblue; 
+     color: white;
+}
+.toDoIsDoneButton {
+    border-radius: 3.5px;
+    width: auto;
+    padding: auto;
+    height: auto;
+    display: inline;
+    background-color: steelblue;
+    border-color: steelblue;
+}
+.toDoItemDeleteButton {
+    border-radius: 3.5px;
+    display: inline;
+    width: auto;
+    height: auto;
+    background-color: steelblue;
+    border-color: steelblue;
+    margin-left: 5px;
+}
+#sectionTwo {
+    margin-top: 7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 19px;
+    color: white;
+    padding: 4px;
+}
+li {
+    margin: 7px;
+    width: 100%;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
